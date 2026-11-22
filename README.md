@@ -57,12 +57,13 @@
 ### 2026년 11월
 
 
+<img src="assets/steel-mind.jpg" alt="조압연기 바 쏠림 사건을 두고 네 동료가 서로 다른 조치를 제안하는 회의 화면" width="100%">
+
 <details>
 <summary><b>STEEL MIND</b> · 제철소 돌발상황 대처 진단 시뮬레이션 · 2026.11.09 – 11.10</summary>
 
 <br>
 
-<img src="assets/steel-mind.jpg" alt="조압연기 바 쏠림 사건을 두고 네 동료가 서로 다른 조치를 제안하는 회의 화면" width="100%">
 
 > 열간압연 라인에서 발생한 조압연기 바(Bar) 쏠림 현상을 두고, 네 명의 동료가 각기 다른 조치를 제안하는 의사결정 회의 시뮬레이션
 
@@ -121,12 +122,13 @@ POSCO K-뉴딜 해커톤 개인 작업 · 저장소 비공개
 
 ### 2026년 9월
 
+<img src="assets/st-rookie.jpg" alt="고로 조업 조건을 바꾸면 전광판과 용선 온도 다이얼이 함께 반응하는 3D 공정 화면" width="100%">
+
 <details>
 <summary><b>ST-ROOKIE</b> · 제철소 신입사원 3D 공정 교육 플랫폼 · 2026.09.30 – 10.21</summary>
 
 <br>
 
-<img src="assets/st-rookie.jpg" alt="고로 조업 조건을 바꾸면 전광판과 용선 온도 다이얼이 함께 반응하는 3D 공정 화면" width="100%">
 
 > 고로 조업 조건을 변경하면 전광판과 용선 온도 다이얼이 실시간으로 반응하는 인터랙티브 3D 공정 환경
 
