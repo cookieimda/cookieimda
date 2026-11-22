@@ -18,14 +18,16 @@
 
 최신 작업이 위에 있습니다. 제목을 누르면 자세한 내용이 펼쳐집니다.
 
-| 기간 | 프로젝트 | 한 줄 | 규모 |
-|:--|:--|:--|:--|
-| 2026.10.07 – 진행 중 | 통해 | 이주노동자 생활 대화 도우미 앱 | PR **49**건 병합 · 비공개 테스트 중 |
-| 2026.11.09 – 11.10 | STEEL MIND | 제철소 돌발상황 대처 진단 시뮬레이션 | 해커톤 · 4인 팀 |
-| 2026.11.09 – 11.10 | SIGNAL | 현장 기록 AI 요약 검증기 | 해커톤 · 개인 작업 |
-| 2026.10.29 – | EDA Studio v02 | 로컬 데이터 분석·문서 도구 | 개인 작업 |
-| 2026.09.30 – 10.21 | ST-ROOKIE | 제철소 신입사원 3D 공정 교육 플랫폼 | 5인 팀 · 커밋 **154**/480 |
-| 2026.09 | 생산착수 시뮬레이터 | 자재 부족 예측 대시보드 UI/UX 개선 | 개인 작업 |
+| 기간 | 프로젝트 | 한 줄 | 규모 | 공개 |
+|:--|:--|:--|:--|:--|
+| 2026.10.07 – 진행 중 | 통해 | 이주노동자 생활 대화 도우미 앱 | PR **49**건 병합 | <img src="https://img.shields.io/badge/비공개_테스트-9a6700?style=flat-square" alt="비공개 테스트"> |
+| 2026.11.09 – 11.10 | STEEL MIND | 제철소 돌발상황 대처 진단 시뮬레이션 | 해커톤 · 4인 팀 | [<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public">](https://github.com/steel-rookie/steel-mind) |
+| 2026.11.09 – 11.10 | SIGNAL | 현장 기록 AI 요약 검증기 | 해커톤 · 개인 작업 | <img src="https://img.shields.io/badge/Private-6e7681?style=flat-square" alt="Private"> |
+| 2026.10.29 – | EDA Studio v02 | 로컬 데이터 분석·문서 도구 | 개인 작업 | <img src="https://img.shields.io/badge/Private-6e7681?style=flat-square" alt="Private"> |
+| 2026.09.30 – 10.21 | ST-ROOKIE | 제철소 신입사원 3D 공정 교육 플랫폼 | 5인 팀 · 커밋 **154**/480 | [<img src="https://img.shields.io/badge/Live_Demo-f2711c?style=flat-square" alt="Live Demo">](https://steel-rookie-dx-onboarding.onrender.com) <img src="https://img.shields.io/badge/Private-6e7681?style=flat-square" alt="Private"> |
+| 2026.09 | 생산착수 시뮬레이터 | 자재 부족 예측 대시보드 UI/UX 개선 | 개인 작업 | <img src="https://img.shields.io/badge/Private-6e7681?style=flat-square" alt="Private"> |
+
+<sub>Public · Live Demo 배지는 누르면 바로 열립니다. Private은 저장소를 공개하지 않은 작업입니다.</sub>
 
 <br>
 
@@ -122,22 +124,21 @@ POSCO K-뉴딜 해커톤 개인 작업 · 저장소 비공개
 
 ### 2026년 9월
 
-<img src="assets/st-rookie.jpg" alt="고로 조업 조건을 바꾸면 전광판과 용선 온도 다이얼이 함께 반응하는 3D 공정 화면" width="100%">
+<img src="assets/st-rookie-demo.gif" alt="시작 화면에서 시연 계정으로 로그인한 뒤 제선·제강·연주·열간압연 4개 공정이 차례로 올라오는 3D 공정 지도" width="100%">
+
+<sub>시작 화면 → 시연 계정 로그인 → 제선 · 제강 · 연주 · 열간압연 4개 공정이 차례로 올라오는 3D 공정 지도 (라이브 데모 실제 녹화)</sub>
 
 <details>
 <summary><b>ST-ROOKIE</b> · 제철소 신입사원 3D 공정 교육 플랫폼 · 2026.09.30 – 10.21</summary>
 
 <br>
 
-
-> 고로 조업 조건을 변경하면 전광판과 용선 온도 다이얼이 실시간으로 반응하는 인터랙티브 3D 공정 환경
-
 제철 4대 공정을 3D로 직접 조작하며 원리를 익히고, LLM 튜터 질의응답부터 구술형 이해도 평가까지 하나의 학습 흐름으로 연결한 온보딩 프로토타입입니다. 서비스 아이디어와 화면 흐름 대부분을 직접 기획하고 구현했습니다.
 
-| 시작 화면 | 3D 공정 지도 | 학습 화면 |
-|:--:|:--:|:--:|
-| <img src="assets/st-rookie-start.jpg" alt="STEEL, IN 3D. 문구가 있는 시작 화면" width="100%"> | <img src="assets/st-rookie-plant.jpg" alt="제선·제강·연주·열간압연 4개 공정 설비가 배치된 3D 제철소 지도" width="100%"> | <img src="assets/st-rookie-learn.jpg" alt="카드형 학습 메뉴와 튜터 캐릭터 포석호가 안내하는 학습 화면" width="100%"> |
-| 첫 진입 · 로그인 | 4개 공정 설비 배치 | 카드형 학습 메뉴 · 튜터 안내 |
+| 3D 공정 What-if | 학습 화면 |
+|:--:|:--:|
+| <img src="assets/st-rookie.jpg" alt="고로 조업 조건을 바꾸면 전광판과 용선 온도 다이얼이 함께 반응하는 3D 공정 화면" width="100%"> | <img src="assets/st-rookie-learn.jpg" alt="카드형 학습 메뉴와 튜터 캐릭터 포석호가 안내하는 학습 화면" width="100%"> |
+| 고로 조건을 바꾸면 전광판과 용선 온도 다이얼이 함께 반응 | 카드형 학습 메뉴 · 튜터 캐릭터 포석호 안내 |
 
 | 기간 및 규모 | 기여도 | 품질 |
 |:--|:--|:--|
@@ -171,6 +172,19 @@ POSCO K-뉴딜 해커톤 개인 작업 · 저장소 비공개
 개인 작업 · 저장소 비공개
 
 </details>
+
+<br>
+
+## More
+
+작업 기록에 넣지 않은 작은 프로젝트와 실습입니다.
+
+| 프로젝트 | 한 줄 | 공개 |
+|:--|:--|:--|
+| PawSafe Trails · 2026.09 | 대기 온도가 아니라 지표면 온도를 예측해 반려견 산책용으로 더 시원한 경로를 비교하는 지도 (React · TypeScript · Supabase) | <img src="https://img.shields.io/badge/Private-6e7681?style=flat-square" alt="Private"> |
+| Desk Home · 2026 | 바탕화면 아이콘을 스마트폰 홈 화면처럼 카테고리 상자로 정리하는 Windows 앱 (Electron) | <img src="https://img.shields.io/badge/Local-6e7681?style=flat-square" alt="Local"> |
+| [고객 세그먼트 분석](https://github.com/cookieimda/SQL_customersegments) · 2026.03 | SQL로 고객을 세분화하고 결과를 보고서로 정리 | [<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public">](https://github.com/cookieimda/SQL_customersegments) |
+| [여행 데이터 EDA](https://github.com/cookieimda/26_02_05) · 2026.02 | Jupyter로 진행한 여행 데이터 탐색 분석 실습 | [<img src="https://img.shields.io/badge/Public-238636?style=flat-square" alt="Public">](https://github.com/cookieimda/26_02_05) |
 
 <br>
 
