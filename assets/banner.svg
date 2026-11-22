@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300" role="img" aria-label="cookieimda · 근거와 대조하는 AI 도구를 만듭니다">
+  <!-- 틀: 단색 한 장. 그라데이션·그림·아이콘 없음 -->
+  <rect width="1280" height="300" rx="14" fill="#111a27"/>
+  <g font-family="Pretendard, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif">
+    <text x="64" y="92" font-size="18" fill="#8b9bb0" letter-spacing="2">POSCO K-뉴딜 아카데미 · 제철 현장 × AI</text>
+    <text x="62" y="170" font-size="72" font-weight="700" fill="#f3f5f8">cookieimda</text>
+    <text x="64" y="222" font-size="26" fill="#c9d2de">AI가 쓴 문장을 <tspan fill="#f3f5f8" font-weight="700">원본 근거와 대조</tspan>하는 도구를 만듭니다</text>
+  </g>
+</svg>
