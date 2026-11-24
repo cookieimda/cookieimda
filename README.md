@@ -5,10 +5,6 @@
 
 <img src="assets/banner.svg" alt="cookieimda · AI가 쓴 문장을 원본 근거와 대조하는 도구를 만듭니다" width="100%">
 
-제철소 현장의 문제를 AI와 소프트웨어로 해결합니다.
-도구를 설계할 때 지키는 단 하나의 원칙이 있습니다.
-
-> **숫자는 코드가 계산하고, 문장은 AI가 설명하며, 근거가 없으면 멈춘다.**
 
 [ST-ROOKIE 라이브 데모](https://steel-rookie-dx-onboarding.onrender.com) · [전체 저장소 보기](https://github.com/cookieimda?tab=repositories)
 
